@@ -12,7 +12,7 @@ The Average Calculator Microservice is a REST API-based service that calculates 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/average-calculator-microservice.git
+git clone https://github.com/nandhini-1402/average-calculator-microservice.git
 ```
 
 2. Navigate to the project directory:
